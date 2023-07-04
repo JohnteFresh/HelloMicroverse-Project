@@ -75,9 +75,9 @@
 <!-- LIVE DEMO -->
 
 ## 🚀 Live Demo <a name="live-demo"></a>
-https://johntefresh.github.io/HelloMicroverse-Project/
 
-- [Live Demo Link](https://google.com)
+
+- [Live Demo Link](https://johntefresh.github.io/HelloMicroverse-Project/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -126,7 +126,7 @@ To run tests, run the following command:
 
 You can deploy this project using:
 
-Your prefered browser.
+Your preffered browser.
 
 A working laptop or phone.
 
