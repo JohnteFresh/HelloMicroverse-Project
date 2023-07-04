@@ -193,6 +193,6 @@ I would like to thank Microverse for the knowledge they have instiled in me and 
 
 ## 📝 License <a name="license"></a>
 
-This project is [MIT](./LICENSE) licensed.
+This project is <a href="https://gh.io/mit" rel="nofollow">MIT License</a> licensed.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
